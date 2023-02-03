@@ -17,7 +17,7 @@ We support hundreds of titles of chinese lyrics, for example as below:
 
  ![chinese](/assets/images/chinese_lyrics_list.JPG)
 
-We suppport Shakespeare's Sonnets for English version.
+We support Shakespeare's Sonnets for English version.
 
 ## Switching tunes template for the same lyric title
 
