@@ -1,3 +1,5 @@
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+
 # Lyric to Melody Generator
 
 A song is a music composition intended to be performed by the human voice (https://en.wikipedia.org/wiki/Song). In popular music, a song always contains contain a melody track for vocal part, and mutiple accompaniment tracks for instrumental/vocal accompaniment.
@@ -62,11 +64,12 @@ The melody is generated with musical form of AB, in which A represents verse and
 
 Then we choose the Cha-cha-chá music style as the accompaniments. The final audio wav is: 
 
+<audio src="/assets/audio/gungunchangjiang-chacha_g.wav" controls preload></audio>
 
-<audio controls="controls">
+<!-- <audio controls="controls">
   <source type="audio/wav" src="/assets/audio/gungunchangjiang-chacha_g.wav"></source>
   <p>Your browser does not support the audio element.</p>
-</audio>
+</audio> -->
 
 You can refer to /assets/audio/gungunchangjiang-chacha_g.wav if it doesn't work.
 
