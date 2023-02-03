@@ -62,16 +62,14 @@ Then the melody is generated as:
 
 The melody is generated with musical form of AB, in which A represents verse and B represents Chorus.
 
-Then we choose the Cha-cha-chá music style as the accompaniments. The final audio wav is: 
-
-<audio src="/assets/audio/gungunchangjiang-chacha_g.wav" controls preload></audio>
+Then we choose the Cha-cha-chá music style as the accompaniments. The final audio wav is at /assets/audio/gungunchangjiang-chacha_g.wav.
 
 <!-- <audio controls="controls">
   <source type="audio/wav" src="/assets/audio/gungunchangjiang-chacha_g.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio> -->
 
-You can refer to /assets/audio/gungunchangjiang-chacha_g.wav if it doesn't work.
+<!-- You can refer to /assets/audio/gungunchangjiang-chacha_g.wav if it doesn't work. -->
 
 ### English lyrics
 ````
@@ -98,11 +96,11 @@ Then the melody is generated as:
 
 The melody is generated with musical form of ABAB, in which A represents verse and B represents Chorus.
 
-Then we choose the popular music style as the accompaniments. The final audio wav is: 
+Then we choose the popular music style as the accompaniments. The final audio wav is at /assets/audio/sonnet18_422_LA_POP_G.wav.
 
-<audio controls="controls">
+<!-- <audio controls="controls">
   <source type="audio/wav" src="/assets/audio/sonnet18_422_LA_POP_G.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-You can refer to /assets/audio/sonnet18_422_LA_POP_G.wav if it doesn't work.
+You can refer to /assets/audio/sonnet18_422_LA_POP_G.wav if it doesn't work. -->
