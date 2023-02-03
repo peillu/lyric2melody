@@ -1,5 +1,3 @@
-<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-
 # Lyric to Melody Generator
 
 A song is a music composition intended to be performed by the human voice (https://en.wikipedia.org/wiki/Song). In popular music, a song always contains contain a melody track for vocal part, and mutiple accompaniment tracks for instrumental/vocal accompaniment.
